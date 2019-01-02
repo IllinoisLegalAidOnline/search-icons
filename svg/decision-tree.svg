@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ILAO / decision-tree</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PTLA-&amp;-ILAO-Content-Type-Icons" transform="translate(-104.000000, -267.000000)" fill-rule="nonzero">
+            <g id="ILAO-/-decision-tree" transform="translate(104.000000, 267.000000)">
+                <rect id="Rectangle" fill="#047EB6" x="0" y="0" width="24" height="24"></rect>
+                <g id="Group-13" transform="translate(4.000000, 4.500000)">
+                    <rect id="Rectangle" fill="#E0F5FC" x="5.5" y="0" width="5" height="5"></rect>
+                    <path d="M8,3.5 L8,7.22436667" id="Line-2" stroke="#E0F5FC" stroke-linecap="square"></path>
+                    <path d="M3,7.5 L3,11.2243667" id="Line-2" stroke="#E0F5FC" stroke-linecap="square"></path>
+                    <path d="M13,7.5 L13,11.2243667" id="Line-2" stroke="#E0F5FC" stroke-linecap="square"></path>
+                    <path d="M8,2.5 L8,12.5" id="Line-2" stroke="#E0F5FC" stroke-linecap="square" transform="translate(8.000000, 7.500000) rotate(-270.000000) translate(-8.000000, -7.500000) "></path>
+                    <rect id="Rectangle" fill="#E0F5FC" x="10.5" y="10" width="5" height="5"></rect>
+                    <rect id="Rectangle" fill="#E0F5FC" x="0.5" y="10" width="5" height="5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

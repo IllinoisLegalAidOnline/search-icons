@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="25px" viewBox="0 0 24 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ILAO / video</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PTLA-&amp;-ILAO-Content-Type-Icons" transform="translate(-212.000000, -213.000000)">
+            <g id="ILAO-/-video" transform="translate(212.000000, 213.000000)">
+                <rect id="Rectangle" fill="#047EB6" fill-rule="nonzero" x="0" y="0" width="24" height="25"></rect>
+                <g id="ic_play_circle_filled" transform="translate(5.000000, 5.208333)" fill="#E0F5FC">
+                    <g id="Icon-24px">
+                        <path d="M7,0.347222222 C3.32,0.347222222 0.333333333,3.45833333 0.333333333,7.29166667 C0.333333333,11.125 3.32,14.2361111 7,14.2361111 C10.68,14.2361111 13.6666667,11.125 13.6666667,7.29166667 C13.6666667,3.45833333 10.68,0.347222222 7,0.347222222 L7,0.347222222 Z M5.66666667,10.4166667 L5.66666667,4.16666667 L9.66666667,7.29166667 L5.66666667,10.4166667 L5.66666667,10.4166667 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

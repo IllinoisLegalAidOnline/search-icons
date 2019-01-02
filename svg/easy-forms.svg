@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ILAO / easy-forms</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PTLA-&amp;-ILAO-Content-Type-Icons" transform="translate(-212.000000, -268.000000)">
+            <g id="ILAO-/-easy-forms" transform="translate(212.000000, 268.000000)">
+                <rect id="Rectangle" fill="#047EB6" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <g id="ic_playlist_add_check" transform="translate(4.000000, 5.000000)">
+                    <g id="Icon-24px">
+                        <g id="Group-5" fill="#E0F5FC" fill-rule="nonzero">
+                            <path d="M0,0 L11,0 L11,2 L0,2 L0,0 Z M0,4 L11,4 L11,6 L0,6 L0,4 Z M0,8 L5,8 L5,10 L0,10 L0,8 Z M11.4168952,12.6585873 L10.0026816,14.0728009 L6.46714771,10.537267 L7.88136127,9.12305339 L10.0026816,11.2443737 L14.2453223,7.00173305 L15.6595359,8.41594661 L11.4168952,12.6585873 Z" id="Combined-Shape"></path>
+                        </g>
+                        <g id="Group-2" transform="translate(11.063342, 9.476607) scale(-1, 1) rotate(-225.000000) translate(-11.063342, -9.476607) translate(8.563342, 5.476607)"></g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

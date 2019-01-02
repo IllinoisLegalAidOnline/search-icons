@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>PTLA / about</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PTLA-&amp;-ILAO-Content-Type-Icons" transform="translate(-50.000000, -50.000000)" fill-rule="nonzero">
+            <g id="PTLA-/-about" transform="translate(50.000000, 50.000000)">
+                <rect id="Rectangle" fill="#024442" x="0" y="0" width="24" height="24"></rect>
+                <g id="Group-3" transform="translate(10.000000, 4.000000)" fill="#EFF2EC">
+                    <path d="M1,14 L1,6 L0,6 L0,4 L3,4 L3,6 L3,14 L4,14 L4,16 L0,16 L0,14 L1,14 Z M1,0 L3,0 L3,2 L1,2 L1,0 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

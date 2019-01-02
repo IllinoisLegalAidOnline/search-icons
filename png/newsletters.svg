@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>PTLA / newsletters</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PTLA-&amp;-ILAO-Content-Type-Icons" transform="translate(-50.000000, -158.000000)" fill-rule="nonzero">
+            <g id="PTLA-/-newsletters" transform="translate(50.000000, 158.000000)">
+                <rect id="Rectangle" fill="#024442" x="0" y="0" width="24" height="24"></rect>
+                <g id="Group-10" transform="translate(4.000000, 6.000000)" fill="#EFF2EC">
+                    <path d="M2,2 L2,10 L14,10 L14,2 L2,2 Z M16,0 L16,12 L0,12 L0,0 L16,0 Z" id="Rectangle" transform="translate(8.000000, 6.000000) rotate(-180.000000) translate(-8.000000, -6.000000) "></path>
+                    <polygon id="Path-3" points="14.4231776 1.18313042 15.5768224 2.81686958 7.91252088 8.22892191 0.414295475 2.81052465 1.58570452 1.18947535 7.92593548 5.77107809"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
